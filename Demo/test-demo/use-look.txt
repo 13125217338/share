@@ -1,0 +1,5 @@
+1. 直接运行方式为双击run.bat即可运行（需安装jre1.8即以上，测试有无安装方法cmd中输入java -version）
+2. 如用编译器导入，请添加mylib文件夹中的依赖，lib文件夹是run.bat运行时需要的依赖包，pom的作用只是下载jar包到仓库，单独run.bat跑需要将依赖从仓库手动添加到lib文件夹下面
+3. 该项目使用纯java解析的web容器，框架也是自定义的，运行时使用编译器直接跑或java命令就行，未开发maven插件，mvn打包运行不支持
+4. 如想扩展功能，使用Develop注解与DevelopIn接口进行扩展，或者使用Start注解进行扩展，DoFilter功能与Servlet功能类似
+5. demo使用了二个数据库配置，但是并未直接引入，使用方式创建正常的mapper接口与xml就行（放同一包下），接口注解使用mybatis包下的Mapper注解即可

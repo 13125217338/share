@@ -1,0 +1,5 @@
+<link rel='stylesheet' href='/include/common/ice/ice.css'/>
+
+<script charset='utf-8' src='/include/common/ice/jquery.min.js'></script>
+<script charset='utf-8' src='/include/common/ice/ice.js'></script>
+<script charset='utf-8' src='/include/common/template/field.js'></script>
