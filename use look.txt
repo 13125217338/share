@@ -1,7 +1,7 @@
-ËùÓÐÎÄ¼þ½éÉÜ¡·¡·¡·
-http.jarÊÇºËÐÄjar°ü£¬ÄÚ²¿°üº¬webÈÝÆ÷Óë¿ò¼ÜµÈ´úÂë£¬Ö»ÐèÕâÒ»¸ö¼´¿ÉÔËÐÐwebÏîÄ¿£¬´úÂëÔËÐÐÊ±ÐèÒÀÀµ¸Ãjar°üÆô¶¯ÏîÄ¿£¬ÆäËûjar°üÒÀÀµÖ»ÐèÔÚÊôÐÔÎÄ¼þÖÐÅäÖÃ£¬´Ë°üÎª±ØÐë°ü£»
-log.jar°üÊÇÈÕÖ¾°ü£¬µ×²ãÊÇÏß³ÌÕ»µÄ´òÓ¡ÓëÎÄ¼þÊä³ö£¬´Ë°üÎªÑ¡Ôñ°ü£»
-ws.jar°üÊÇwebsocket°ü£¬ÓÃÓÚÓëÇ°¶Ë½¨Á¢³¤Á´½Ó£¬´Ë°üÎªÑ¡Ôñ°ü£»
-ice.rarÊÇÑ¹ËõÎÄ¼þÇ°¶Ë¿ò¼ÜÎÄ¼þ£¬ÄÚÖÃÒ»¸öjquey.min.js£¬¿ò¼ÜÐèÕâ¸öjs²ÅÄÜÕý³£Ê¹ÓÃ£¬Ò²¿ÉÒÔ×Ô¼ºÊÖ¶¯ÏÂÔØ¸Ãjs£»
-ËùÓÐjar°ü¶¼´øÓÐÔ´Âë£¬±àÒëÆ÷ÒÀÀµÊ±¿ÉÒÔÖ±½Ó¹Û¿´Ô´Âë£»
-ÕâÐ©´úÂë²»ÔÊÐíÉÌÒµÓÃÍ¾£¡£»
+æ‰€æœ‰æ–‡ä»¶ä»‹ç»ã€‹ã€‹ã€‹
+http.jaræ˜¯æ ¸å¿ƒjaråŒ…ï¼Œå†…éƒ¨åŒ…å«webå®¹å™¨ä¸Žæ¡†æž¶ç­‰ä»£ç ï¼Œåªéœ€è¿™ä¸€ä¸ªå³å¯è¿è¡Œwebé¡¹ç›®ï¼Œä»£ç è¿è¡Œæ—¶éœ€ä¾èµ–è¯¥jaråŒ…å¯åŠ¨é¡¹ç›®ï¼Œå…¶ä»–jaråŒ…ä¾èµ–åªéœ€åœ¨å±žæ€§æ–‡ä»¶ä¸­é…ç½®ï¼Œæ­¤åŒ…ä¸ºå¿…é¡»åŒ…ï¼›
+log.jaråŒ…æ˜¯æ—¥å¿—åŒ…ï¼Œåº•å±‚æ˜¯çº¿ç¨‹æ ˆçš„æ‰“å°ä¸Žæ–‡ä»¶è¾“å‡ºï¼Œæ­¤åŒ…ä¸ºé€‰æ‹©åŒ…ï¼›
+ws.jaråŒ…æ˜¯websocketåŒ…ï¼Œç”¨äºŽä¸Žå‰ç«¯å»ºç«‹é•¿é“¾æŽ¥ï¼Œæ­¤åŒ…ä¸ºé€‰æ‹©åŒ…ï¼›
+ice.raræ˜¯åŽ‹ç¼©æ–‡ä»¶å‰ç«¯æ¡†æž¶æ–‡ä»¶ï¼Œå†…ç½®ä¸€ä¸ªjquey.min.jsï¼Œæ¡†æž¶éœ€è¿™ä¸ªjsæ‰èƒ½æ­£å¸¸ä½¿ç”¨ï¼Œä¹Ÿå¯ä»¥è‡ªå·±æ‰‹åŠ¨ä¸‹è½½è¯¥jsï¼›
+æ‰€æœ‰jaråŒ…éƒ½å¸¦æœ‰æºç ï¼Œç¼–è¯‘å™¨ä¾èµ–æ—¶å¯ä»¥ç›´æŽ¥è§‚çœ‹æºç ï¼›
+è¿™äº›ä»£ç ä¸å…è®¸å•†ä¸šç”¨é€”ï¼ï¼›
